@@ -32,6 +32,8 @@ pytest-runner==5.2
 pywin32==227
 queuelib==1.5.0
 Scrapy==1.6.0
+scrapyd==1.2.1
+scrapyd-client==1.1.0
 service-identity==18.1.0
 six==1.13.0
 Twisted==19.10.0
